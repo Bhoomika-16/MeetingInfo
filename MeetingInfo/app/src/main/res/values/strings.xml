@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meeting Information</string>
+    <string name="tab_text_1">Schedule Meeting</string>
+    <string name="tab_text_2">Get Meeting Info</string>
+    <string name="meeting_details">Meeting Details</string>
+</resources>
